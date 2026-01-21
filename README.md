@@ -5,4 +5,4 @@ This project is a Random Jokes Generator created using JavaScript. It fetches ra
 
 
 
-![Uploading image.png…]()
+<img width="1369" height="913" alt="image" src="https://github.com/user-attachments/assets/b7b9ad37-41c5-4468-99a5-34f3ca17acea" />
